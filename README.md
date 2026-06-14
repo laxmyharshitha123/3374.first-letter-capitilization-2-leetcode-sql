@@ -1,0 +1,1 @@
+# 3374.first-letter-capitilization-2-leetcode-sql
